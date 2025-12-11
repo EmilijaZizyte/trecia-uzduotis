@@ -21,10 +21,10 @@
    - **Remove** – pašalina programą
    - Jei programa nebuvo įdiegta anksčiau, tiesiog sekite instaliacijos vedlį.
 3. Sekite vedlio instrukcijas ir užbaikite instaliaciją.
-    Pasirink aplanką, kur norite įdiegti (jei reikia).
-    Spausti Next kol instaliacija baigsis.
-    Spausti Finish, kai instaliacija pabaigta.
-    Raskite programą per Start menu arba ant darbalaukio, jei instaliatorius sukūrė nuorodą.
+   -Pasirink aplanką, kur norite įdiegti (jei reikia).
+   -Spausti Next kol instaliacija baigsis.
+   -Spausti Finish, kai instaliacija pabaigta.
+   -Raskite programą per Start menu arba ant darbalaukio, jei instaliatorius sukūrė nuorodą.
 
 ## Pastabos
 

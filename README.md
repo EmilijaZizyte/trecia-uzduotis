@@ -1,4 +1,38 @@
-#  Setup 
+#  Setup v3.0 – Diegimo failai ir naudojimosi instrukcija
+
+
+Šiame repozitorijoje yra programos instaliatorius 'setup.msi'. Toliau pateikiama instrukcija, kaip jį atsisiųsti ir įdiegti.
+
+## Atsisiuntimas
+
+1. Eikite į GitHub repozitoriją: [https://github.com/EmilijaZizyte/trecia-uzduotis]
+2. Pasirinkite šaką **V3.0**
+3. Atsisiųskite failą 'setup.msi':
+   - Spustelėkite ant failo
+   - Pasirinkite „Download“ mygtuką (ne RAW, kad failas nebūtų sugadintas)
+
+**Pastaba:** Failas yra didesnis nei 100 MB, todėl naudojamas Git LFS. Atsisiuntimui rekomenduojama naudoti naršyklę arba Git su LFS palaikymu.
+
+## Instaliavimas Windows sistemoje
+
+1. Dukart spustelėkite atsisiųstą 'setup.msi' failą.
+2. Windows gali parodyti langą:
+   - **Repair** – pataiso arba atnaujina esamą instaliaciją
+   - **Remove** – pašalina programą
+   - Jei programa nebuvo įdiegta anksčiau, tiesiog sekite instaliacijos vedlį.
+3. Sekite vedlio instrukcijas ir užbaikite instaliaciją.
+    Pasirink aplanką, kur norite įdiegti (jei reikia).
+    Spausti Next kol instaliacija baigsis.
+    Spausti Finish, kai instaliacija pabaigta.
+    Raskite programą per Start menu arba ant darbalaukio, jei instaliatorius sukūrė nuorodą.
+
+## Pastabos
+
+- MSI failas veikia tik Windows sistemose.
+- Jei atsisiuntus failą naršyklėje jis neveikia, patikrinkite, ar naudojote „Download“ mygtuką, o ne RAW peržiūrą GitHub.
+
+---
+
 
 Repozitorijos klonavimas
 <img width="1412" height="808" alt="image" src="https://github.com/user-attachments/assets/1ac72dc7-49b5-4a42-87f4-07041fda77d9" />

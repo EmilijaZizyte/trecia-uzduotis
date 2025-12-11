@@ -1,3 +1,11 @@
+#  Setup 
+
+Repozitorijos klonavimas
+<img width="1412" height="808" alt="image" src="https://github.com/user-attachments/assets/1ac72dc7-49b5-4a42-87f4-07041fda77d9" />
+<img width="953" height="422" alt="image" src="https://github.com/user-attachments/assets/c57b2552-9fef-4bbf-8396-d033c8ad3467" />
+
+
+
 #  Abstrakti klasė Zmogus
 
 Dėl abstrakčių funkcijų neįmanoma sukurti Žmogus objekto, tik išvestinę klasę. Demonstracija kompiliavimo metu (rezultatas, ką gauname paleidus programą):
